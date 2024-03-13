@@ -1,4 +1,4 @@
-![blue (2)](https://github.com/datasalih/Color-Blast/assets/75942108/2370892f-21d8-4e44-941b-b707d6582081)
+![blue](https://github.com/datasalih/Color-Blast/assets/75942108/e6c76e96-b10e-421f-8ce6-ebced9eda6d6)
 
 3-Match Game Made With Unity using c#
 
